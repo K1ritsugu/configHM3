@@ -1,0 +1,7 @@
+deviceName: 'SensorX'
+interval: 30
+sensors:
+  - time:
+      - "30 seconds"
+      - "15 minutes"
+  - 'humidity'

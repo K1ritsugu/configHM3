@@ -1,0 +1,3 @@
+deviceName := 'SensorX';
+interval := 30;
+sensors := list(list('30 seconds','15 minutes'),'humidity');
